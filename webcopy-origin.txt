@@ -1,0 +1,1004 @@
+Uri: https://buttons.github.io/buttons.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\buttons.js
+Content Type: application/javascript
+
+Uri: https://cdn.datacamp.com/dcl-react.js.gz
+File Name: C:\Downloaded Web Sites\www.learnpython.org\dcl-react.js.gz
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.learnpython.org/ru/
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\index.htm
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Basic Operators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Basic Operators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Basic String Operations
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Basic String Operations.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Basic_Operators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Basic_Operators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Basic_String_Operations
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Basic_String_Operations.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Classes and Objects
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Classes and Objects.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Classes_and_Objects
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Classes_and_Objects.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Closures
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Closures.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Code Introspection
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Code Introspection.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Code_Introspection
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Code_Introspection.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Conditions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Conditions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Decorators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Decorators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Dictionaries
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Dictionaries.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Exception Handling
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Exception Handling.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Exception_Handling
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Exception_Handling.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Generators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Generators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Hello%2C_World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Hello,_World!.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Hello, World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Hello, World!.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Hello,_World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Hello,_World!-1.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Input and Output
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Input and Output.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Input_and_Output
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Input_and_Output.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Lambda functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Lambda functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Lambda_functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Lambda_functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/List Comprehensions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\List Comprehensions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Lists
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Lists.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/List_Comprehensions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\List_Comprehensions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Loops
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Loops.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Map%2C_Filter%2C_Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Map,_Filter,_Reduce.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Map, Filter, Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Map, Filter, Reduce.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Map,_Filter,_Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Map,_Filter,_Reduce-1.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Modules and Packages
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Modules and Packages.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Modules_and_Packages
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Modules_and_Packages.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Multiple Function Arguments
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Multiple Function Arguments.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Multiple_Function_Arguments
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Multiple_Function_Arguments.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Parsing CSV Files
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Parsing CSV Files.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Parsing_CSV_Files
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Parsing_CSV_Files.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Partial functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Partial functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Partial_functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Partial_functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Regular Expressions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Regular Expressions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Regular_Expressions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Regular_Expressions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Serialization
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Serialization.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Sets
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Sets.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/String Formatting
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\String Formatting.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/String_Formatting
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\String_Formatting.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Variables and Types
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Variables and Types.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Variables_and_Types
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Variables_and_Types.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/ru/Welcome
+File Name: C:\Downloaded Web Sites\www.learnpython.org\ru\Welcome.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/static/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/codemirror.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\codemirror-1.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/learnpython.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\learnpython-1.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/prism-dark.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\prism-dark-1.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/prism-light.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\prism-light-1.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/theme/xq-dark-media.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\theme\xq-dark-media-1.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/theme/xq-light-media.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\theme\xq-light-media-1.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/img/banners/cfk/cfk-billboard.png
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\img\banners\cfk\cfk-billboard.png
+Content Type: image/png
+
+Uri: https://www.learnpython.org/static/img/banners/coddy/coddy-billboard-bottom-python.png
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\img\banners\coddy\coddy-billboard-bottom-python.png
+Content Type: image/png
+
+Uri: https://www.learnpython.org/static/img/banners/digital-ocean.svg
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\img\banners\digital-ocean.svg
+Content Type: image/svg+xml
+
+Uri: https://www.learnpython.org/static/img/favicons/learnpython.org.ico
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\img\favicons\learnpython.org-1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.learnpython.org/static/img/icon20x24px-exported-transparent.png
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\img\icon20x24px-exported-transparent.png
+Content Type: image/png
+
+Uri: https://www.learnpython.org/static/js/bootbox.min.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\bootbox.min.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/codemirror/addon/edit/matchbrackets.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\codemirror\addon\edit\matchbrackets.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/codemirror/codemirror.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\codemirror\codemirror.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/codemirror/mode/clike/clike.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\codemirror\mode\clike\clike.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/codemirror/mode/css/css.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\codemirror\mode\css\css.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/codemirror/mode/htmlembedded/htmlembedded.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\codemirror\mode\htmlembedded\htmlembedded.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/codemirror/mode/htmlmixed/htmlmixed.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\codemirror\mode\htmlmixed\htmlmixed.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/codemirror/mode/python/python.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\codemirror\mode\python\python.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/codemirror/mode/xml/xml.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\codemirror\mode\xml\xml.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/datacamp.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\datacamp.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/learnpython.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\learnpython.js
+Content Type: text/javascript
+
+Uri: https://www.learnpython.org/static/js/prism.js
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\js\prism.js
+Content Type: text/javascript
+
+ps://www.learnpython.org/he/Welcome
+File Name: C:\Downloaded Web Sites\www.learnpython.org\he\Welcome.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\index.htm
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Basic Operators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Basic Operators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Basic String Operations
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Basic String Operations.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Basic_Operators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Basic_Operators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Basic_String_Operations
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Basic_String_Operations.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Classes and Objects
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Classes and Objects.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Classes_and_Objects
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Classes_and_Objects.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Closures
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Closures.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Code Introspection
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Code Introspection.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Code_Introspection
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Code_Introspection.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Conditions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Conditions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Decorators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Decorators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Dictionaries
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Dictionaries.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Exception Handling
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Exception Handling.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Exception_Handling
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Exception_Handling.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Generators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Generators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Hello%2C World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Hello, World!.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Hello%2C_World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Hello,_World!.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Hello,_World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Hello,_World!-1.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Input and Output
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Input and Output.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Input_and_Output
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Input_and_Output.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Lambda functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Lambda functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Lambda_functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Lambda_functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/List Comprehensions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\List Comprehensions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Lists
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Lists.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/List_Comprehensions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\List_Comprehensions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Loops
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Loops.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Map%2C Filter%2C Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Map, Filter, Reduce.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Map%2C_Filter%2C_Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Map,_Filter,_Reduce.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Map,_Filter,_Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Map,_Filter,_Reduce-1.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Modules and Packages
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Modules and Packages.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Modules_and_Packages
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Modules_and_Packages.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Multiple Function Arguments
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Multiple Function Arguments.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Multiple_Function_Arguments
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Multiple_Function_Arguments.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Parsing CSV Files
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Parsing CSV Files.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Parsing_CSV_Files
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Parsing_CSV_Files.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Partial functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Partial functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Partial_functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Partial_functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Regular Expressions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Regular Expressions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Regular_Expressions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Regular_Expressions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Serialization
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Serialization.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Sets
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Sets.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/String Formatting
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\String Formatting.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/String_Formatting
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\String_Formatting.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Variables and Types
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Variables and Types.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Variables_and_Types
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Variables_and_Types.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hi/Welcome
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hi\Welcome.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\index.htm
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Basic Operators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Basic Operators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Basic String Operations
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Basic String Operations.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Basic_Operators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Basic_Operators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Basic_String_Operations
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Basic_String_Operations.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Classes and Objects
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Classes and Objects.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Classes_and_Objects
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Classes_and_Objects.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Closures
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Closures.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Code Introspection
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Code Introspection.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Code_Introspection
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Code_Introspection.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Conditions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Conditions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Decorators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Decorators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Dictionaries
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Dictionaries.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Exception Handling
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Exception Handling.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Exception_Handling
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Exception_Handling.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Generators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Generators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Hello%2C World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Hello, World!.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Hello%2C_World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Hello,_World!.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Hello,_World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Hello,_World!-1.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Input and Output
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Input and Output.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Input_and_Output
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Input_and_Output.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Lambda functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Lambda functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Lambda_functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Lambda_functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/List Comprehensions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\List Comprehensions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Lists
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Lists.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/List_Comprehensions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\List_Comprehensions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Loops
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Loops.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Map%2C Filter%2C Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Map, Filter, Reduce.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Map%2C_Filter%2C_Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Map,_Filter,_Reduce.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Map,_Filter,_Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Map,_Filter,_Reduce-1.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Modules and Packages
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Modules and Packages.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Modules_and_Packages
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Modules_and_Packages.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Multiple Function Arguments
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Multiple Function Arguments.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Multiple_Function_Arguments
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Multiple_Function_Arguments.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Parsing CSV Files
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Parsing CSV Files.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Parsing_CSV_Files
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Parsing_CSV_Files.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Partial functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Partial functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Partial_functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Partial_functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Regular Expressions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Regular Expressions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Regular_Expressions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Regular_Expressions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Serialization
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Serialization.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Sets
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Sets.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/String Formatting
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\String Formatting.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/String_Formatting
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\String_Formatting.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Variables and Types
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Variables and Types.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Variables_and_Types
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Variables_and_Types.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/hu/Welcome
+File Name: C:\Downloaded Web Sites\www.learnpython.org\hu\Welcome.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\index.htm
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Basic Operators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Basic Operators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Basic String Operations
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Basic String Operations.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Basic_Operators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Basic_Operators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Basic_String_Operations
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Basic_String_Operations.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Classes and Objects
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Classes and Objects.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Classes_and_Objects
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Classes_and_Objects.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Closures
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Closures.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Code Introspection
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Code Introspection.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Code_Introspection
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Code_Introspection.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Conditions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Conditions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Decorators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Decorators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Dictionaries
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Dictionaries.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Exception Handling
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Exception Handling.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Exception_Handling
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Exception_Handling.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Generators
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Generators.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Hello%2C World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Hello, World!.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Hello%2C_World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Hello,_World!.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Hello,_World!
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Hello,_World!-1.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Input and Output
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Input and Output.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Input_and_Output
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Input_and_Output.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Lambda functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Lambda functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Lambda_functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Lambda_functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/List Comprehensions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\List Comprehensions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Lists
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Lists.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/List_Comprehensions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\List_Comprehensions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Loops
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Loops.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Map%2C_Filter%2C_Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Map,_Filter,_Reduce.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Map, Filter, Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Map, Filter, Reduce.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Map,_Filter,_Reduce
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Map,_Filter,_Reduce-1.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Modules and Packages
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Modules and Packages.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Modules_and_Packages
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Modules_and_Packages.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Multiple Function Arguments
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Multiple Function Arguments.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Multiple_Function_Arguments
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Multiple_Function_Arguments.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Parsing CSV Files
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Parsing CSV Files.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Parsing_CSV_Files
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Parsing_CSV_Files.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Partial functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Partial functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Partial_functions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Partial_functions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Regular Expressions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Regular Expressions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Regular_Expressions
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Regular_Expressions.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Serialization
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Serialization.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Sets
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Sets.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/String Formatting
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\String Formatting.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/String_Formatting
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\String_Formatting.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Variables and Types
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Variables and Types.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Variables_and_Types
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Variables_and_Types.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/id/Welcome
+File Name: C:\Downloaded Web Sites\www.learnpython.org\id\Welcome.html
+Content Type: text/html
+
+Uri: https://www.learnpython.org/static/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/codemirror.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\codemirror.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/learnpython.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\learnpython.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/prism-dark.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\prism-dark.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/prism-light.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\prism-light.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/theme/xq-dark-media.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\theme\xq-dark-media.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/css/theme/xq-light-media.css
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\css\theme\xq-light-media.css
+Content Type: text/css
+
+Uri: https://www.learnpython.org/static/img/favicons/learnpython.org.ico
+File Name: C:\Downloaded Web Sites\www.learnpython.org\static\img\favicons\learnpython.org.ico
+Content Type: image/vnd.microsoft.icon
+
